@@ -1,9 +1,9 @@
-# (Lumina Smart Mirror Ecosystem)
+# Lumina Smart Mirror Ecosystem
 
 SOMA is an interactive smart mirror ecosystem designed to bring ambient, on-device intelligence into modern environments. By combining computer vision, spatial sensors, and a semi-transparent dielectric optical surface, SOMA turns a standard mirror into a privacy-first, context-aware information portal.
 
 🌐 **Live Website:** [https://dawgybey.github.io/lumina/](https://dawgybey.github.io/lumina/)  
-_(Note: Project is transitioning from Lumina to the SOMA framework)._
+_(Note: Project is transitioning  framework)._
 
 ---
 
