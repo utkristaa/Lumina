@@ -1,4 +1,4 @@
-# soma_smart_mirror (Lumina Smart Mirror Ecosystem)
+# (Lumina Smart Mirror Ecosystem)
 
 SOMA is an interactive smart mirror ecosystem designed to bring ambient, on-device intelligence into modern environments. By combining computer vision, spatial sensors, and a semi-transparent dielectric optical surface, SOMA turns a standard mirror into a privacy-first, context-aware information portal.
 
@@ -65,25 +65,6 @@ npm run server
 
 ---
 
-## 👥 Core Team & Mentors
 
-### Engineering Team
-
-- **Utkirsta Adhikari** — Hardware & Team Lead
-- **Sulav Nepal** — AI Software Engineer
-- **Prince KC** — UI/UX Designer
-- **Nishant Kumar Kharga** — Integration Engineer
-- **Anusha Ghimire** — Systems QA & Testing
-
-### Mentors
-
-- **Mr. Ayush Dangol** — HCI & Embedded Systems Specialist
-- **Mr. Raj Kumar Chaurasiya** — Computer Vision & Edge AI Expert
-
----
-
-## 📄 Recognition
-
-Developed for the SUNWAY RAIN Innovation Summit.
 
 © 2025 ALL RIGHTS RESERVED.
