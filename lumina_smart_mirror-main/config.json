@@ -1,0 +1,53 @@
+{
+	"location": {
+		"city": "Kathmandu, Nepal",
+		"latitude": 27.7172,
+		"longitude": 85.324,
+		"timezone": "Asia/Kathmandu"
+	},
+	"calendar": {
+		"ical_url": "https://calendar.google.com/calendar/ical/sulavinjob%40gmail.com/public/basic.ics",
+		"_how_to_use_google_calendar": "Open Google Calendar > Settings > Integrate calendar > Public address in iCal format."
+	},
+	"news": {
+		"primary_rss_url": "https://news.google.com/rss/search?q=Nepal&hl=en-NP&gl=NP&ceid=NP:en",
+		"fallback_rss_url": "https://www.onlinekhabar.com/feed",
+		"nepali_sources": [
+			{
+				"name": "Google News Nepal",
+				"url": "https://news.google.com/rss/search?q=Nepal&hl=en-NP&gl=NP&ceid=NP:en",
+				"lang": "en"
+			},
+			{
+				"name": "OnlineKhabar",
+				"url": "https://www.onlinekhabar.com/feed",
+				"lang": "np"
+			},
+			{
+				"name": "Setopati",
+				"url": "https://www.setopati.com/feed",
+				"lang": "np"
+			},
+			{
+				"name": "The Himalayan Times",
+				"url": "https://thehimalayantimes.com/feed",
+				"lang": "en"
+			}
+		],
+		"_note": "Nepali news RSS feeds configuration for multi-source aggregation."
+	},
+	"gestures": {
+		"min_cutoff": 1.0,
+		"beta": 0.3,
+		"horizontal_threshold": 0.08,
+		"vertical_threshold": 0.08,
+		"cooldown_frames": 6,
+		"verification_frames": 8,
+		"only_read_fingers": true,
+		"_note": "only_read_fingers reads 0-5 finger counts."
+	},
+	"health_monitor": {
+		"min_signal_quality": 0.35,
+		"_note": "Minimum rPPG signal-to-noise ratio."
+	}
+}

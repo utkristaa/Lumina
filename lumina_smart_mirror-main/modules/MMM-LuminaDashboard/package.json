@@ -1,0 +1,9 @@
+{
+	"name": "MMM-LuminaDashboard",
+	"version": "2.0.0",
+	"description": "Integrated Business Intelligence and Physiological AI Core for Lumina",
+	"main": "MMM-LuminaDashboard.js",
+	"dependencies": {},
+	"author": "Lumina Core AI Architect",
+	"license": "MIT"
+}
